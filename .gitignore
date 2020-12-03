@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+*.pkl
+*.jl
+*.gz
+test.py
+*.joblib
