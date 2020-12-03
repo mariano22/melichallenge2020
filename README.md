@@ -1,2 +1,2 @@
 # melichallenge2020
-My first adventour on ML competition!
+My first adventure on ML competition!
